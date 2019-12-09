@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src.main.java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javax.mail-api-1.6.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/dtdparser121.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/xmlplugin.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nayou/OneDrive/Desktop/winx64_12201_database/database/stage/ext/jlib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-1.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.48-bin.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/commons-collections4-4.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/commons-collections4-4.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/commons-collections4-4.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/javax.mail-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nayou/eclipse-workspace/test/lib/myLibrary.jar"/>
+	<classpathentry kind="lib" path="lib"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
