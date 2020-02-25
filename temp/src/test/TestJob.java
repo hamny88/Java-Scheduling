@@ -89,8 +89,8 @@ public class TestJob implements Job {
 			    private static void mailsend(StringBuilder sb)throws AddressException, MessagingException{
 			         String host = "smtp.gmail.com";
 			          //sender
-			         final String username = "hamny88@gmail.com";
-			         final String password = "gka726173588@";
+			         final String username = "******@gmail.com";
+			         final String password = "**********";
 			         //int port = 465;
 			         
 			         //content
