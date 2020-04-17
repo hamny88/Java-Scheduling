@@ -28,8 +28,8 @@ public class TestJob implements Job {
 	    
 			    String driver = "oracle.jdbc.driver.OracleDriver";
 			    String url = "jdbc:oracle:thin:@localhost:1521:orcl";
-			    String id="SYSTEM";
-			    String pass="SYSTEM";
+			    String id="******";
+			    String pass="******";
 			    Connection conn = null;
 			    Statement stmt = null;
 			    ResultSet rset = null;
@@ -94,7 +94,7 @@ public class TestJob implements Job {
 			         //int port = 465;
 			         
 			         //content
-			         String recipient = "hamny888@naver.com";
+			         String recipient = "***************";
 			         String subject = "Data interface Error"; //title
 			         String body = "Error Trans_date \n \n"+sb.toString(); //content < query result
 			         
@@ -117,7 +117,7 @@ public class TestJob implements Job {
 			         session.setDebug(true);
 			         
 			         Message mimeMessage = new MimeMessage(session);
-			         mimeMessage.setFrom(new InternetAddress("hamny88@gmail.com"));
+			         mimeMessage.setFrom(new InternetAddress("**********"));
 			         mimeMessage.setRecipient(Message.RecipientType.TO, new InternetAddress(recipient));
 			         
 			         mimeMessage.setSubject(subject); //title
