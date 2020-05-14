@@ -208,8 +208,8 @@ public class schedule2 {
          String host = "smtp.gmail.com";
         
          //sender
-         final String username = "hamny88@gmail.com";
-         final String password = "gka726173588@";
+         final String username = "************";
+         final String password = "**********";
          //int port = 465;
          
          //content
