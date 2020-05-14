@@ -249,12 +249,12 @@ public class schedule {
          String host = "smtp.gmail.com";
         
          //senderf
-         final String username = "hamny88@gmail.com";
-         final String password = "gka726173588@";
+         final String username = "***************";
+         final String password = "******************";
          //int port = 465;
          
          //content
-         String recipient = "hamny888@naver.com";
+         String recipient = "***************";
          String subject = "Data interface Report"; //title
          
          String discript = discription.toString();
